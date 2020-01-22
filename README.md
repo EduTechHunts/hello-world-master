@@ -1,2 +1,3 @@
-# hello-world-master
-sample maven project
+# maven-project
+
+Simple Maven Project
